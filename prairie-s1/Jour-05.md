@@ -7,8 +7,13 @@
 
 * [x] Créer son premier repo Github
 * [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
+<<<<<<< HEAD
 * [ ] Découverte du Markdown : 
   * [ ] Comprendre l'intérêt du Markdown
+=======
+* [x] Découverte du Markdown : 
+  *[x] Comprendre l'intérêt du Markdown
+>>>>>>> 8c2e1839eac8d1ec0443141a35ea2e07c6c8720e
   * [ ] Découvrir les balises de bases : 
     * [ ] Titres
     * [ ] Images
