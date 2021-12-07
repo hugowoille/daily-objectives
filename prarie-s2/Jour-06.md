@@ -6,8 +6,8 @@
 
 ### Maquettage
 
-* [ ] Découvrir le maquettage d'interface d'une application (wireframe)
-* [ ] Choix d'un outil de maquettage
+* [x] Découvrir le maquettage d'interface d'une application (wireframe)
+* [x] Choix d'un outil de maquettage
 * [ ] Cadrer la demande client
 * [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
-* [ ] Créer son premier wireframe (voir brief)
+* [x] Créer son premier wireframe (voir brief)
