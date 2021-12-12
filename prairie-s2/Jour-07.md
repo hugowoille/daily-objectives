@@ -18,5 +18,5 @@
   * [ ] Découvrir le principe de parents/enfants
   * [x] Découvrir le HTML5 sémantique
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
-* [ ] Créer sa première page HTML (voir brief CV)
+* [x] Créer sa première page HTML (voir brief CV)
 * [ ] Découvrir Emmet (utilité et fonctionnement)
