@@ -23,7 +23,11 @@
 * [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
   * [x] Navigateur (fenêtres, onglets, navigation, etc …)
   * [x] Terminal (fenêtres, onglets, commandes)
+<<<<<<< HEAD
+* [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+=======
 * [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+>>>>>>> 3dd06481efb4b2197e7c02f0355be9362ec8d81a
 
 
 
