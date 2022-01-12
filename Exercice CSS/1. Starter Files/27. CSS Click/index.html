@@ -13,8 +13,43 @@
     />
   </head>
   <body>
-  
+    
+<!-- 
+    En utilisant la technique de la checkbox cachée en CSS, faire apparaitre un
+    menu comme dans le fichier preview.mov lorsque l'on clique sur le label 
+    de cette checkbox.
+    (L'utilisation de la pseudo-classe :checked sera nécessaire pour savoir 
+    si la checkbox est active ou pas, et si l'on doit afficher le menu ou pas)
+  -->
 
+
+    <input type="checkbox" class="checkbox-toggler" id="nav" />
+
+    <label for="nav" class="nav-btn">
+      <span class="nav-icon"></span>
+    </label>
+
+    <div class="nav-bg"></div>
+
+    <nav class="navigation">
+      <ul class="nav-list">
+        <li>
+          <a href="#" class="nav-link">Home</a>
+        </li>
+        <li>
+          <a href="#" class="nav-link">Our Products</a>
+        </li>
+        <li>
+          <a href="#" class="nav-link">Blog</a>
+        </li>
+        <li>
+          <a href="#" class="nav-link">About</a>
+        </li>
+        <li>
+          <a href="#" class="nav-link">Contact</a>
+        </li>
+      </ul>
+    </nav>
     
 
   </body>
