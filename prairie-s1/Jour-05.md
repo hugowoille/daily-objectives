@@ -5,25 +5,29 @@
 ### Vendredi 03/12/2021
 
 
-* [ ] Créer son premier repo Github
-* [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-* [ ] Découverte du Markdown : 
-  * [ ] Comprendre l'intérêt du Markdown
-  * [ ] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
-    * [ ] Listes
-    * [ ] Formatage de texte (italique, souligné, gras)
-    * [ ] Code
-    * [ ] Citations
-    * [ ] Tableaux
-    * [ ] Liens
+* [x] Créer son premier repo Github
+* [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
+* [x] Découverte du Markdown : 
+  * [x] Comprendre l'intérêt du Markdown
+  * [x] Découvrir les balises de bases : 
+    * [x] Titres
+    * [x] Images
+    * [x] Listes
+    * [x] Formatage de texte (italique, souligné, gras)
+    * [x] Code
+    * [x] Citations
+    * [x] Tableaux
+    * [x] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Comprendre l'intérêt des raccourcis clavier
+* [x] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
+  * [x] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [x] Terminal (fenêtres, onglets, commandes)
+<<<<<<< HEAD
 * [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+=======
+* [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+>>>>>>> 3dd06481efb4b2197e7c02f0355be9362ec8d81a
 
 
 
